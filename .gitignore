@@ -6,6 +6,7 @@ __pycache__/
 !.env.example
 .codex-log/
 
-# Local datasets and generated output; share permitted artifacts deliberately
-starter/data/
-starter/results/
+# Local datasets and generated output; permitted artifacts included for submission
+!starter/data/converted/
+!starter/results/
+starter/check_checkpoint*.py

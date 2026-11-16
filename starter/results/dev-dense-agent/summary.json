@@ -1,0 +1,16 @@
+{
+  "split": "dev",
+  "total_questions": 17,
+  "answered": 14,
+  "abstain": 3,
+  "total_time_seconds": 33.297739028930664,
+  "avg_time_per_query": 1.9586905311135685,
+  "config": {
+    "retriever": "PgVectorRetriever (Dense)",
+    "embedding_model": "gemini-embedding-001",
+    "controller_model": "gemini-flash-lite-latest",
+    "max_searches": 3,
+    "top_k": 3,
+    "budget": 2500
+  }
+}

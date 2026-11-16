@@ -1,0 +1,755 @@
+[
+  {
+    "id": "adv_dev_01",
+    "split": "dev",
+    "category": "Text",
+    "question": "Nghiên cứu về sức khỏe tâm thần và tâm lý xã hội của trẻ em do tổ chức nào tiến hành và hỗ trợ kỹ thuật?",
+    "expected_answer": "Viện Nghiên cứu và Phát triển (ODI)",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 4,
+        "evidence": "Viện Nghiên cứu và Phát triển",
+        "chunk_id": "sktt_p4_c4"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_02",
+    "split": "dev",
+    "category": "Text",
+    "question": "Theo danh mục từ viết tắt của báo cáo, cụm từ viết tắt 'ADHD' có nghĩa tiếng Việt là gì?",
+    "expected_answer": "Tăng động giảm chú ý",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 5,
+        "evidence": "ADHD",
+        "chunk_id": "sktt_p5_c6"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_03",
+    "split": "dev",
+    "category": "Text",
+    "question": "Cụm từ viết tắt 'CTE' trong báo cáo biểu thị cơ quan nào?",
+    "expected_answer": "Cục Trẻ em",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 5,
+        "evidence": "CTE",
+        "chunk_id": "sktt_p5_c6"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_04",
+    "split": "dev",
+    "category": "Bảng",
+    "question": "Theo Bảng 2 về độ tuổi trẻ em tham gia mẫu định tính ở trang 36, có tổng cộng bao nhiêu trẻ em tại Hà Nội tham gia?",
+    "expected_answer": "28 trẻ em",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 36,
+        "evidence": "Hà Nội",
+        "chunk_id": "sktt_p36_c145"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_05",
+    "split": "dev",
+    "category": "Bảng",
+    "question": "Theo Bảng 2 trang 36, số lượng trẻ em nữ tại tỉnh Điện Biên tham gia mẫu định tính là bao nhiêu?",
+    "expected_answer": "18 trẻ em nữ",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 36,
+        "evidence": "Điện Biên",
+        "chunk_id": "sktt_p36_c145"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_06",
+    "split": "dev",
+    "category": "Biểu đồ",
+    "question": "Theo Biểu 1 trang 37, tỷ lệ trẻ em gái tham gia đánh giá nhanh chiếm bao nhiêu phần trăm?",
+    "expected_answer": "60,2%",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 37,
+        "evidence": "Trẻ em gái chiếm 60,2%",
+        "chunk_id": "sktt_p37_c148"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_07",
+    "split": "dev",
+    "category": "Ảnh, sơ đồ",
+    "question": "Theo Sơ đồ 1 trang 131, thang đo SDQ được sử dụng để phân loại điểm số cho trẻ em trong độ tuổi nào?",
+    "expected_answer": "Trẻ từ 4 đến 17 tuổi",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 131,
+        "evidence": "SDQ",
+        "chunk_id": "sktt_p131_c666"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_08",
+    "split": "dev",
+    "category": "Bảng",
+    "question": "Theo Bảng 1 trang 124, nguồn số liệu về tự tử năm 2015 ở tỉnh Điện Biên do cơ quan nào cung cấp?",
+    "expected_answer": "Sở Y tế Điện Biên",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 124,
+        "evidence": "Sở Y tế Điện Biên",
+        "chunk_id": "sktt_p124_c629"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_09",
+    "split": "dev",
+    "category": "Bảng",
+    "question": "Theo Bảng 4 trang 125, số liệu các ca tự tử ở xã Keo Lôm giai đoạn 2007-2015 được thu thập từ nguồn nào?",
+    "expected_answer": "Trạm y tế xã",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 125,
+        "evidence": "Trạm y tế xã",
+        "chunk_id": "sktt_p125_c630"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_10",
+    "split": "dev",
+    "category": "Multi-hop",
+    "question": "Các cuộc phỏng vấn định tính về sức khỏe tâm thần trẻ em được tiến hành tại 4 tỉnh/thành phố nào ở Việt Nam?",
+    "expected_answer": "Hà Nội, TP.HCM, Điện Biên và An Giang",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 36,
+        "evidence": "Hà Nội",
+        "chunk_id": "sktt_p36_c145"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_11",
+    "split": "dev",
+    "category": "Biểu đồ",
+    "question": "Theo Biểu 1 trang 37, tỷ lệ trẻ em trai tham gia đánh giá nhanh chiếm bao nhiêu phần trăm?",
+    "expected_answer": "39,8%",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 37,
+        "evidence": "trẻ em trai là 39,8%",
+        "chunk_id": "sktt_p37_c148"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_12",
+    "split": "dev",
+    "category": "Text",
+    "question": "Các phỏng vấn định tính trong nghiên cứu được mã hóa bằng phần mềm chuyên dụng nào?",
+    "expected_answer": "MAXQDA 12",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 37,
+        "evidence": "MAXQDA 12",
+        "chunk_id": "sktt_p37_c150"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_13",
+    "split": "dev",
+    "category": "Ảnh, sơ đồ",
+    "question": "Thang đo SDQ viết tắt của công cụ đánh giá tâm lý nào?",
+    "expected_answer": "Strengths and Difficulties Questionnaire (Bảng hỏi Điểm mạnh và Khó khăn)",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 131,
+        "evidence": "SDQ",
+        "chunk_id": "sktt_p131_c666"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_14",
+    "split": "dev",
+    "category": "Bảng",
+    "question": "Theo Bảng 1 trang 135, mục SD22 khảo sát về hành vi lấy đồ không phải của mình có bao nhiêu phần trăm trẻ trả lời 'Không đúng'?",
+    "expected_answer": "90,5%",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 135,
+        "evidence": "SD22",
+        "chunk_id": "sktt_p135_c692"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_15",
+    "split": "dev",
+    "category": "Biểu đồ",
+    "question": "Theo thống kê ở trang 136, có bao nhiêu phần trăm số trẻ em lựa chọn phương án 'hoàn toàn đúng' với nhận định hay giúp đỡ người khác?",
+    "expected_answer": "60,4%",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 136,
+        "evidence": "60,4%",
+        "chunk_id": "sktt_p136_c694"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_unans_01",
+    "split": "dev",
+    "category": "Thiếu bằng chứng",
+    "question": "Báo cáo khuyến nghị mức lương tối thiểu cụ thể bao nhiêu triệu đồng mỗi tháng cho chuyên viên tư vấn tâm lý học đường?",
+    "expected_answer": "Không đủ bằng chứng để trả lời.",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Báo cáo nghiên cứu của UNICEF đề xuất cơ chế chính sách, không đưa ra bảng lương tối thiểu bằng số tiền cụ thể."
+  },
+  {
+    "id": "adv_dev_unans_02",
+    "split": "dev",
+    "category": "Thiếu bằng chứng",
+    "question": "Chi phí thuê máy chủ đám mây AWS để lưu trữ dữ liệu khảo sát của UNICEF là bao nhiêu USD mỗi năm?",
+    "expected_answer": "Không đủ bằng chứng để trả lời.",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Tài liệu là báo cáo chính sách xã hội học, không chứa thông tin hạ tầng CNTT hay chi phí thuê cloud."
+  },
+  {
+    "id": "adv_dev_unans_03",
+    "split": "dev",
+    "category": "Thiếu bằng chứng",
+    "question": "Thủ tục đăng ký bảo hiểm y tế tại bang California (Hoa Kỳ) cho trẻ em vị thành niên được quy định như thế nào trong tài liệu?",
+    "expected_answer": "Không đủ bằng chứng để trả lời.",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Nghiên cứu chỉ khảo sát thực địa tại Việt Nam, không đề cập đến chính sách bảo hiểm y tế bang California."
+  },
+  {
+    "id": "adv_test_tbl_01",
+    "split": "test",
+    "category": "Bảng",
+    "question": "Theo Bảng 2 trang 36, nhóm tuổi nào chiếm số lượng đông nhất trong mẫu định tính (với tổng số 69 trẻ)?",
+    "expected_answer": "Nhóm 15-17 tuổi",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 36,
+        "evidence": "15-17",
+        "chunk_id": "sktt_p36_c145"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_tbl_02",
+    "split": "test",
+    "category": "Bảng",
+    "question": "Theo Bảng 2 trang 36, tại TP.HCM có bao nhiêu trẻ em nam và bao nhiêu trẻ em nữ tham gia mẫu định tính?",
+    "expected_answer": "16 trẻ em nam và 10 trẻ em nữ",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 36,
+        "evidence": "TPHCM",
+        "chunk_id": "sktt_p36_c144"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_tbl_03",
+    "split": "test",
+    "category": "Bảng",
+    "question": "Theo Bảng 2 trang 36, tổng số trẻ em tham gia mẫu định tính tại tỉnh Điện Biên là bao nhiêu?",
+    "expected_answer": "33 trẻ em",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 36,
+        "evidence": "Điện Biên",
+        "chunk_id": "sktt_p36_c146"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_tbl_04",
+    "split": "test",
+    "category": "Bảng",
+    "question": "Theo Bảng 1 trang 135, tỷ lệ phần trăm trẻ em trả lời 'Không đúng' đối với câu hỏi SD2 về tăng động (luôn có cảm giác bồn chồn) là bao nhiêu?",
+    "expected_answer": "35,1%",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 135,
+        "evidence": "SD2",
+        "chunk_id": "sktt_p135_c691"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_tbl_05",
+    "split": "test",
+    "category": "Bảng",
+    "question": "Theo Bảng 2 trang 137, điểm trung bình thang đo SDQ về các vấn đề cảm xúc của trẻ em là bao nhiêu?",
+    "expected_answer": "4,34",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 137,
+        "evidence": "vấn đề cảm xúc",
+        "chunk_id": "sktt_p137_c700"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_tbl_06",
+    "split": "test",
+    "category": "Bảng",
+    "question": "Theo Bảng 2 trang 137, điểm trung bình thang đo SDQ đối với các vấn đề hành vi của trẻ em là bao nhiêu?",
+    "expected_answer": "2,63",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 137,
+        "evidence": "vấn đề hành vi",
+        "chunk_id": "sktt_p137_c701"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_img_01",
+    "split": "test",
+    "category": "Ảnh, sơ đồ",
+    "question": "Theo Sơ đồ 1 trang 131, thang đo SDQ phân loại điểm số của trẻ em thành mấy nhóm mức độ chính?",
+    "expected_answer": "3 nhóm mức độ: Bình thường, Ranh giới và Bất thường (có vấn đề)",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 131,
+        "evidence": "Sơ đồ 1",
+        "chunk_id": "sktt_p131_c666"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_img_02",
+    "split": "test",
+    "category": "Ảnh, sơ đồ",
+    "question": "Thang đo SDQ (Bảng hỏi Điểm mạnh và Khó khăn) bao gồm mấy thang đo thành phần chính để đánh giá sức khỏe tâm thần trẻ em?",
+    "expected_answer": "5 thang đo thành phần: Cảm xúc, Hành vi, Tăng động, Bạn bè và Hành vi xã hội tích cực",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 131,
+        "evidence": "SDQ",
+        "chunk_id": "sktt_p131_c666"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_img_03",
+    "split": "test",
+    "category": "Ảnh, sơ đồ",
+    "question": "Hình thức phân loại điểm số SDQ áp dụng cho nhóm đối tượng nào theo sơ đồ hướng dẫn tại trang 131?",
+    "expected_answer": "Trẻ em và thanh thiếu niên trong độ tuổi từ 4 đến 17 tuổi",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 131,
+        "evidence": "4-17 tuổi",
+        "chunk_id": "sktt_p131_c667"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_img_04",
+    "split": "test",
+    "category": "Ảnh, sơ đồ",
+    "question": "Trong quy trình nghiên cứu tại Chương 2 (trang 37), các tài liệu ghi âm phỏng vấn sau khi thu thập được xử lý bằng phần mềm chuyên dụng nào?",
+    "expected_answer": "Được mã hóa bằng phần mềm MAXQDA 12",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 37,
+        "evidence": "MAXQDA 12",
+        "chunk_id": "sktt_p37_c150"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_img_05",
+    "split": "test",
+    "category": "Ảnh, sơ đồ",
+    "question": "Hệ thống bảo vệ trẻ em dựa vào cộng đồng được viết tắt trong tài liệu bằng ký hiệu nào?",
+    "expected_answer": "HTBVTEDVCĐ",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 5,
+        "evidence": "HTBVTEDVCĐ",
+        "chunk_id": "sktt_p5_c6"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_cht_01",
+    "split": "test",
+    "category": "Biểu đồ",
+    "question": "Theo thống kê trong Biểu đồ 2 trang 136, tỷ lệ trẻ em có mối quan hệ bạn bè và hành vi xã hội tích cực được ghi nhận như thế nào?",
+    "expected_answer": "Đại đa số trẻ em lựa chọn phương án 'hoàn toàn đúng' và 'đúng một phần'",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 136,
+        "evidence": "Biểu đồ 2",
+        "chunk_id": "sktt_p136_c694"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_cht_02",
+    "split": "test",
+    "category": "Biểu đồ",
+    "question": "Theo Biểu 3 trang 137, điểm trung bình tổng điểm khó khăn (Mean) của SDQ là bao nhiêu?",
+    "expected_answer": "13,99 (khoảng 14 điểm)",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 137,
+        "evidence": "Mean = 13.99",
+        "chunk_id": "sktt_p137_c698"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_cht_03",
+    "split": "test",
+    "category": "Biểu đồ",
+    "question": "Theo phân tích Biểu đồ 4 và 5 trang 139, điểm trung bình tổng các khó khăn giữa nhóm trẻ em nam và nhóm trẻ em gái là bao nhiêu?",
+    "expected_answer": "14,15 ở nhóm trẻ em nam so với 13,75 ở nhóm trẻ em gái",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 139,
+        "evidence": "14,15",
+        "chunk_id": "sktt_p139_c708"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_cht_04",
+    "split": "test",
+    "category": "Biểu đồ",
+    "question": "Theo Biểu 1 trang 37, mẫu đánh giá nhanh được tiến hành trên tổng số bao nhiêu trẻ em (N)?",
+    "expected_answer": "402 trẻ em",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 37,
+        "evidence": "N=402",
+        "chunk_id": "sktt_p37_c152"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_cht_05",
+    "split": "test",
+    "category": "Biểu đồ",
+    "question": "Theo Biểu đồ 5 trang 139, kết quả kiểm định ANOVA một yếu tố cho thấy sự khác biệt về điểm tổng khó khăn theo đặc điểm cá nhân như thế nào?",
+    "expected_answer": "Không có khác biệt có ý nghĩa thống kê",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 139,
+        "evidence": "one-way ANOVA",
+        "chunk_id": "sktt_p139_c709"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_hop_01",
+    "split": "test",
+    "category": "Multi-hop",
+    "question": "So sánh giữa Hà Nội và An Giang ở Bảng 2 trang 36, địa bàn nào có tổng số trẻ em tham gia mẫu định tính nhiều hơn?",
+    "expected_answer": "Hà Nội nhiều hơn (Hà Nội có 28 trẻ so với An Giang có 26 trẻ)",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 36,
+        "evidence": "Hà Nội",
+        "chunk_id": "sktt_p36_c145"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_hop_02",
+    "split": "test",
+    "category": "Multi-hop",
+    "question": "Kết hợp thông tin từ Lời cảm ơn (trang 4) và Danh mục viết tắt (trang 5), cơ quan Bộ LĐTBXH có tên gọi đầy đủ là gì?",
+    "expected_answer": "Bộ Lao động, Thương binh và Xã hội",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 4,
+        "evidence": "Bộ Lao động, Thương binh và Xã hội",
+        "chunk_id": "sktt_p4_c4"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_hop_03",
+    "split": "test",
+    "category": "Multi-hop",
+    "question": "Theo Bảng 2 trang 36, trong tổng số 33 trẻ em tham gia tại Điện Biên, có bao nhiêu trẻ thuộc độ tuổi từ 15-17?",
+    "expected_answer": "30 trẻ em",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 36,
+        "evidence": "Điện Biên",
+        "chunk_id": "sktt_p36_c146"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_hop_04",
+    "split": "test",
+    "category": "Multi-hop",
+    "question": "Theo thống kê tại Bảng 2 trang 36 và phân tích mẫu khảo sát, nhóm học sinh độ tuổi nào (11-14 hay 15-17) chiếm tỷ lệ tham gia cao hơn (53,7%)?",
+    "expected_answer": "Nhóm học sinh độ tuổi 15-17 (Trung học phổ thông, chiếm 53,7%)",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 36,
+        "evidence": "Trung học phổ thông",
+        "chunk_id": "sktt_p36_c147"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_txt_01",
+    "split": "test",
+    "category": "Text",
+    "question": "Những chuyên gia nào thuộc tổ chức ODI đã tham gia nhóm nghiên cứu chính được ghi nhận trong Lời cảm ơn?",
+    "expected_answer": "Bà Fiona Samuels, bà Nicola Jones và bà Taveeshi Gupta",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 4,
+        "evidence": "Fiona Samuels",
+        "chunk_id": "sktt_p4_c4"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_txt_02",
+    "split": "test",
+    "category": "Text",
+    "question": "Chương 5 của báo cáo nghiên cứu (bắt đầu từ trang 81) tập trung phân tích về chủ đề gì?",
+    "expected_answer": "Các hệ thống cung ứng dịch vụ chăm sóc sức khỏe tâm thần và tâm lý xã hội",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 81,
+        "evidence": "Các hệ thống cung ứng dịch vụ",
+        "chunk_id": "sktt_p81_c400"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_txt_03",
+    "split": "test",
+    "category": "Text",
+    "question": "Theo trang 16 của báo cáo, việc cung ứng dịch vụ chăm sóc sức khỏe tâm thần thuộc trách nhiệm quản lý của những Bộ, ngành nào?",
+    "expected_answer": "Bộ Y tế và Bộ Lao động, Thương binh và Xã hội",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 16,
+        "evidence": "Bộ Y tế",
+        "chunk_id": "sktt_p16_c44"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_txt_04",
+    "split": "test",
+    "category": "Text",
+    "question": "Theo danh mục từ viết tắt tại trang 5, cụm từ viết tắt 'MICS' có ý nghĩa là gì?",
+    "expected_answer": "Điều tra đánh giá các mục tiêu về trẻ em và phụ nữ (UNICEF)",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "gold": [
+      {
+        "source_id": "suc-khoe-tam-than-152p",
+        "page": 5,
+        "evidence": "MICS",
+        "chunk_id": "sktt_p5_c6"
+      }
+    ]
+  },
+  {
+    "id": "adv_test_unans_01",
+    "split": "test",
+    "category": "Thiếu bằng chứng",
+    "question": "Doanh thu xuất khẩu gạo của tỉnh An Giang năm 2023 đạt chính xác bao nhiêu triệu USD theo số liệu của báo cáo?",
+    "expected_answer": "Không đủ bằng chứng để trả lời.",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Báo cáo nghiên cứu tâm lý xã hội trẻ em, không thống kê kim ngạch xuất khẩu nông sản của tỉnh An Giang."
+  },
+  {
+    "id": "adv_test_unans_02",
+    "split": "test",
+    "category": "Thiếu bằng chứng",
+    "question": "Quy trình xin cấp phép xây dựng tòa nhà cao ốc tại Hà Nội gồm mấy bước theo quy định trong báo cáo?",
+    "expected_answer": "Không đủ bằng chứng để trả lời.",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Tài liệu tập trung vào sức khỏe tâm thần trẻ em, không liên quan đến thủ tục cấp phép xây dựng."
+  },
+  {
+    "id": "adv_test_unans_03",
+    "split": "test",
+    "category": "Thiếu bằng chứng",
+    "question": "Công thức hóa học và độc tính phân tử chính xác của chất gây nghiện fentanyl được phân tích chi tiết ở chương nào?",
+    "expected_answer": "Không đủ bằng chứng để trả lời.",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Báo cáo nghiên cứu xã hội học, không có chương phân tích hóa học phân tử chuyên sâu về chất ma túy."
+  },
+  {
+    "id": "adv_test_unans_04",
+    "split": "test",
+    "category": "Thiếu bằng chứng",
+    "question": "Bảng giá học phí hệ quốc tế tại trường Đại học Fulbright Việt Nam được công bố là bao nhiêu nghìn USD trong báo cáo?",
+    "expected_answer": "Không đủ bằng chứng để trả lời.",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Tài liệu không khảo sát biểu phí của trường Đại học Fulbright."
+  },
+  {
+    "id": "adv_test_unans_05",
+    "split": "test",
+    "category": "Thiếu bằng chứng",
+    "question": "Thời gian tàu hỏa chạy tuyến Hà Nội - Điện Biên mất bao nhiêu giờ theo hướng dẫn đi lại của nhóm tác giả?",
+    "expected_answer": "Không đủ bằng chứng để trả lời.",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Báo cáo không đề cập đến lịch trình hoặc thời gian di chuyển của ngành đường sắt."
+  },
+  {
+    "id": "adv_test_unans_06",
+    "split": "test",
+    "category": "Thiếu bằng chứng",
+    "question": "Tỷ số bàn thắng giữa đội tuyển bóng đá nam Việt Nam và Thái Lan tại SEA Games 31 được nhóm nghiên cứu ghi nhận ra sao?",
+    "expected_answer": "Không đủ bằng chứng để trả lời.",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Tài liệu y tế xã hội không chứa số liệu thể thao hoặc kết quả thi đấu bóng đá."
+  }
+]

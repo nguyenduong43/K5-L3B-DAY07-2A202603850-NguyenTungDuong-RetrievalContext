@@ -1,0 +1,16 @@
+{
+  "split": "test",
+  "total_questions": 7,
+  "answered": 3,
+  "abstain": 4,
+  "total_time_seconds": 16.724302053451538,
+  "avg_time_per_query": 2.389186007635934,
+  "config": {
+    "retriever": "HybridRetriever (Dense + TF-IDF with RRF)",
+    "embedding_model": "gemini-embedding-001",
+    "controller_model": "gemini-flash-lite-latest",
+    "max_searches": 3,
+    "top_k": 3,
+    "budget": 2500
+  }
+}

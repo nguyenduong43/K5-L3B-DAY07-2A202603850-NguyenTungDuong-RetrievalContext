@@ -1,0 +1,15 @@
+{
+  "split": "test",
+  "total_questions": 30,
+  "answered": 24,
+  "abstain": 6,
+  "total_time_seconds": 76.88270401954651,
+  "avg_time_per_query": 2.56275680065155,
+  "config": {
+    "document": "Sức khỏe tâm thần trẻ em (UNICEF 152p)",
+    "controller_model": "gemini-flash-lite-latest",
+    "max_searches": 3,
+    "top_k": 5,
+    "budget": 4000
+  }
+}

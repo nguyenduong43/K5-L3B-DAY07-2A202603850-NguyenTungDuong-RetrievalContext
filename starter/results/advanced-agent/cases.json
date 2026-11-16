@@ -1,0 +1,152 @@
+[
+  {
+    "id": "adv_test_tbl_01",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_tbl_02",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_tbl_03",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_tbl_04",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_tbl_05",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_tbl_06",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_img_01",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_img_02",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_img_03",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_img_04",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_img_05",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_cht_01",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_cht_02",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_cht_03",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_cht_04",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_cht_05",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_hop_01",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_hop_02",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_hop_03",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_hop_04",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_txt_01",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_txt_02",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_txt_03",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_txt_04",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "adv_test_unans_01",
+    "split": "test",
+    "answerable": false
+  },
+  {
+    "id": "adv_test_unans_02",
+    "split": "test",
+    "answerable": false
+  },
+  {
+    "id": "adv_test_unans_03",
+    "split": "test",
+    "answerable": false
+  },
+  {
+    "id": "adv_test_unans_04",
+    "split": "test",
+    "answerable": false
+  },
+  {
+    "id": "adv_test_unans_05",
+    "split": "test",
+    "answerable": false
+  },
+  {
+    "id": "adv_test_unans_06",
+    "split": "test",
+    "answerable": false
+  }
+]

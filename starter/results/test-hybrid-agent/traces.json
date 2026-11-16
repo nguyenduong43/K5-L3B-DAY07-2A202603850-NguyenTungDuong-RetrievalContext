@@ -1,0 +1,727 @@
+[
+  {
+    "query_id": "q16",
+    "split": "test",
+    "question": "Trong phần kết luận, đối tượng nghiên cứu trọng tâm của luận án là nhóm nào?",
+    "answerable": true,
+    "expected_answer": "Sinh viên (thời sinh viên)",
+    "status": "answered",
+    "answer": "Trong phần kết luận của luận án, đối tượng nghiên cứu trọng tâm là nhóm sinh viên, tập trung vào ảnh hưởng của mạng xã hội nói chung và mạng xã hội Facebook đối với học tập và đời sống của họ [anh-huong-mang-xa-hoi_p20_p0], [anh-huong-mang-xa-hoi_p20_p1].",
+    "citations": [
+      "anh-huong-mang-xa-hoi_p20_p0",
+      "anh-huong-mang-xa-hoi_p20_p1"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Trong phần kết luận, đối tượng nghiên cứu trọng tâm của luận án là nhóm nào?",
+        "filter": {
+          "section": "ket_luan_khuyen_nghi"
+        },
+        "results": [
+          {
+            "id": "anh-huong-mang-xa-hoi_p20_p0",
+            "text": "18\n\nKẾT LUẬN VÀ KHUYẾN NGHỊ\nKết luận\nTuy thời sinh viên là đ ối tượng nghiên c ứu quan tr ọng của\nnhiều công trình khoa học về xã hội học, nhưng việc nghiên cứu ảnh\nhưởng c ủa m ạng xã h ội nói chung và m ạng xã h ội Facebook nói\nriêng đến một số phương diện chủ yếu gắn với nhóm đ ối tượng này\nvẫn là một nhiệm vụ bức thiết và cần được tiếp tục luận giải chuyên\nsâu. Xuất phát từ lý do đó, trong lu ận án này, chúng tôi đã t ập trung\nthực hiện một số nhiệm vụ nghiên cứu cụ thể với những kết quả cơ\nbản thu được như sau:\nThứ nhất, luận án đã t ổng h ợp và phân tích các k ết qu ả\nnghiên cứu của công trình những công trình có liên quan đã công b ố\ntheo ba mảng vấn đề lớn là: các tài liệu có liên quan đến lý thuyết về\nmạng xã hội và mạng xã hội Facebook; các tài li ệu có liên quan đ ến",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 20,
+            "metadata": {
+              "section": "ket_luan_khuyen_nghi",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 788,
+              "raw_length": 1715,
+              "chunk_index": 0,
+              "cleaned_length": 1683
+            },
+            "score": 0.03252247488101534,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "anh-huong-mang-xa-hoi_p20_p2",
+            "text": "trong luận án và vi ệc làm rõ n ội hàm c ủa chúng có vai trò r ất quan\ntrọng. Chúng tôi cũng đã gi ới thi ệu khái quát v ề sự hình thành và",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 20,
+            "metadata": {
+              "section": "ket_luan_khuyen_nghi",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 139,
+              "raw_length": 1715,
+              "chunk_index": 2,
+              "cleaned_length": 1683
+            },
+            "score": 0.032266458495966696,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "anh-huong-mang-xa-hoi_p20_p1",
+            "text": "học t ập và đ ời s ống sinh viên; các tài li ệu có liên quan đ ến ảnh\nhưởng c ủa m ạng xã h ội nói chung và m ạng xã h ội Facebook nói\nriêng đến sinh viên. Trên cơ s ở đó, chúng tôi nhận thấy, việc nghiên\ncứu v ề ảnh h ưởng c ủa m ạng xã h ội t ới thanh niên/gi ới tr ẻ ở Việt\nNam đã được một số học giả thực hiện, nhưng đề tài nghiên cứu trực\ntiếp về ảnh hưởng của mạng xã hội Facebook tới học tập và đời sống\ncủa sinh viên vẫn là một khoảng trống cần được quan tâm, tạo tiền đề\nđể chúng tôi ti ến hành tri ển khai các n ội dung c ụ thể trong luận án\nnày.\nThứ hai, luận án đã ph ần nào làm rõ các khái ni ệm cơ b ản\ncủa đề tài là khái niệm sinh viên, khái niệm ảnh hưởng và khái niệm\nmạng xã h ội. Tác gi ả xác định rõ, đây là nh ững khái ni ệm nền tảng",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 20,
+            "metadata": {
+              "section": "ket_luan_khuyen_nghi",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 754,
+              "raw_length": 1715,
+              "chunk_index": 1,
+              "cleaned_length": 1683
+            },
+            "score": 0.0315136476426799,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[anh-huong-mang-xa-hoi_p20_p0 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 20]\n18\n\nKẾT LUẬN VÀ KHUYẾN NGHỊ\nKết luận\nTuy thời sinh viên là đ ối tượng nghiên c ứu quan tr ọng của\nnhiều công trình khoa học về xã hội học, nhưng việc nghiên cứu ảnh\nhưởng c ủa m ạng xã h ội nói chung và m ạng xã h ội Facebook nói\nriêng đến một số phương diện chủ yếu gắn với nhóm đ ối tượng này\nvẫn là một nhiệm vụ bức thiết và cần được tiếp tục luận giải chuyên\nsâu. Xuất phát từ lý do đó, trong lu ận án này, chúng tôi đã t ập trung\nthực hiện một số nhiệm vụ nghiên cứu cụ thể với những kết quả cơ\nbản thu được như sau:\nThứ nhất, luận án đã t ổng h ợp và phân tích các k ết qu ả\nnghiên cứu của công trình những công trình có liên quan đã công b ố\ntheo ba mảng vấn đề lớn là: các tài liệu có liên quan đến lý thuyết về\nmạng xã hội và mạng xã hội Facebook; các tài li ệu có liên quan đ ến\n\n[anh-huong-mang-xa-hoi_p20_p2 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 20]\ntrong luận án và vi ệc làm rõ n ội hàm c ủa chúng có vai trò r ất quan\ntrọng. Chúng tôi cũng đã gi ới thi ệu khái quát v ề sự hình thành và\n\n[anh-huong-mang-xa-hoi_p20_p1 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 20]\nhọc t ập và đ ời s ống sinh viên; các tài li ệu có liên quan đ ến ảnh\nhưởng c ủa m ạng xã h ội nói chung và m ạng xã h ội Facebook nói\nriêng đến sinh viên. Trên cơ s ở đó, chúng tôi nhận thấy, việc nghiên\ncứu v ề ảnh h ưởng c ủa m ạng xã h ội t ới thanh niên/gi ới tr ẻ ở Việt\nNam đã được một số học giả thực hiện, nhưng đề tài nghiên cứu trực\ntiếp về ảnh hưởng của mạng xã hội Facebook tới học tập và đời sống\ncủa sinh viên vẫn là một khoảng trống cần được quan tâm, tạo tiền đề\nđể chúng tôi ti ến hành tri ển khai các n ội dung c ụ thể trong luận án\nnày.\nThứ hai, luận án đã ph ần nào làm rõ các khái ni ệm cơ b ản\ncủa đề tài là khái niệm sinh viên, khái niệm ảnh hưởng và khái niệm\nmạng xã h ội. Tác gi ả xác định rõ, đây là nh ững khái ni ệm nền tảng",
+        "context_ids": [
+          "anh-huong-mang-xa-hoi_p20_p0",
+          "anh-huong-mang-xa-hoi_p20_p2",
+          "anh-huong-mang-xa-hoi_p20_p1"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_seconds": 2.2587010860443115
+  },
+  {
+    "query_id": "q17",
+    "split": "test",
+    "question": "Tác giả đã vận dụng những lý thuyết nào được nhắc đến trong phần kết luận của luận án?",
+    "answerable": true,
+    "expected_answer": "Lý thuyết lựa chọn hợp lý, thuyết tương tác biểu trưng, lý thuyết nhu cầu",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Tác giả đã vận dụng những lý thuyết nào được nhắc đến trong phần kết luận của luận án?",
+        "filter": null,
+        "results": [
+          {
+            "id": "anh-huong-mang-xa-hoi_p21_p0",
+            "text": "19\n\nphát triển cũng như đặc điểm chính của mạng xã hội Facebook với tư\ncách là một trong những mạng xã hội phổ biến nhất trên thế giới nói\nchung và Việt Nam nói riêng. Ti ếp theo, tác giả đã phân tích một số\nlý thuyết lớn có khả năng hỗ trợ nhiều cho việc giải quyết các nhiệm\nvụ nghiên cứu mà luận án đề ra, đáng chú ý là nh ững lý thuyết sau:\nlý thuyết lựa chọn hợp lý; thuyết tương tác bi ểu trưng; lý thuyết nhu\ncầu. M ặt khác, các phương pháp thu th ập và x ử lý s ố liệu (g ồm\nphương pháp nghiên c ứu tài li ệu, phương pháp trưng c ầu ý ki ến,\nphương pháp ph ỏng vấn sâu) đã đư ợc xác đ ịnh rõ, đ ặc biệt là cách\nthức mà tác gi ả sử dụng chúng để phục vụ cho việc hoàn thi ện nội\ndung luận án. Tác gi ả cũng đã gi ới thiệu khái quát v ề đặc điểm của",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 21,
+            "metadata": {
+              "section": "ket_luan_khuyen_nghi",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 755,
+              "raw_length": 1917,
+              "chunk_index": 0,
+              "cleaned_length": 1887
+            },
+            "score": 0.03252247488101534,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "anh-huong-mang-xa-hoi_p20_p0",
+            "text": "18\n\nKẾT LUẬN VÀ KHUYẾN NGHỊ\nKết luận\nTuy thời sinh viên là đ ối tượng nghiên c ứu quan tr ọng của\nnhiều công trình khoa học về xã hội học, nhưng việc nghiên cứu ảnh\nhưởng c ủa m ạng xã h ội nói chung và m ạng xã h ội Facebook nói\nriêng đến một số phương diện chủ yếu gắn với nhóm đ ối tượng này\nvẫn là một nhiệm vụ bức thiết và cần được tiếp tục luận giải chuyên\nsâu. Xuất phát từ lý do đó, trong lu ận án này, chúng tôi đã t ập trung\nthực hiện một số nhiệm vụ nghiên cứu cụ thể với những kết quả cơ\nbản thu được như sau:\nThứ nhất, luận án đã t ổng h ợp và phân tích các k ết qu ả\nnghiên cứu của công trình những công trình có liên quan đã công b ố\ntheo ba mảng vấn đề lớn là: các tài liệu có liên quan đến lý thuyết về\nmạng xã hội và mạng xã hội Facebook; các tài li ệu có liên quan đ ến",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 20,
+            "metadata": {
+              "section": "ket_luan_khuyen_nghi",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 788,
+              "raw_length": 1715,
+              "chunk_index": 0,
+              "cleaned_length": 1683
+            },
+            "score": 0.03200204813108039,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "anh-huong-mang-xa-hoi_p6_p2",
+            "text": "“sự lựa chọn hợp lý” nhằm giải thích tính xã h ội trong việc lựa chọn\nsử dụng mạng xã hội Facebook của sinh viên; vận dụng “lý thuyết về",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 6,
+            "metadata": {
+              "section": "mo_dau",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 136,
+              "raw_length": 1701,
+              "chunk_index": 2,
+              "cleaned_length": 1669
+            },
+            "score": 0.03149801587301587,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[anh-huong-mang-xa-hoi_p21_p0 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 21]\n19\n\nphát triển cũng như đặc điểm chính của mạng xã hội Facebook với tư\ncách là một trong những mạng xã hội phổ biến nhất trên thế giới nói\nchung và Việt Nam nói riêng. Ti ếp theo, tác giả đã phân tích một số\nlý thuyết lớn có khả năng hỗ trợ nhiều cho việc giải quyết các nhiệm\nvụ nghiên cứu mà luận án đề ra, đáng chú ý là nh ững lý thuyết sau:\nlý thuyết lựa chọn hợp lý; thuyết tương tác bi ểu trưng; lý thuyết nhu\ncầu. M ặt khác, các phương pháp thu th ập và x ử lý s ố liệu (g ồm\nphương pháp nghiên c ứu tài li ệu, phương pháp trưng c ầu ý ki ến,\nphương pháp ph ỏng vấn sâu) đã đư ợc xác đ ịnh rõ, đ ặc biệt là cách\nthức mà tác gi ả sử dụng chúng để phục vụ cho việc hoàn thi ện nội\ndung luận án. Tác gi ả cũng đã gi ới thiệu khái quát v ề đặc điểm của\n\n[anh-huong-mang-xa-hoi_p20_p0 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 20]\n18\n\nKẾT LUẬN VÀ KHUYẾN NGHỊ\nKết luận\nTuy thời sinh viên là đ ối tượng nghiên c ứu quan tr ọng của\nnhiều công trình khoa học về xã hội học, nhưng việc nghiên cứu ảnh\nhưởng c ủa m ạng xã h ội nói chung và m ạng xã h ội Facebook nói\nriêng đến một số phương diện chủ yếu gắn với nhóm đ ối tượng này\nvẫn là một nhiệm vụ bức thiết và cần được tiếp tục luận giải chuyên\nsâu. Xuất phát từ lý do đó, trong lu ận án này, chúng tôi đã t ập trung\nthực hiện một số nhiệm vụ nghiên cứu cụ thể với những kết quả cơ\nbản thu được như sau:\nThứ nhất, luận án đã t ổng h ợp và phân tích các k ết qu ả\nnghiên cứu của công trình những công trình có liên quan đã công b ố\ntheo ba mảng vấn đề lớn là: các tài liệu có liên quan đến lý thuyết về\nmạng xã hội và mạng xã hội Facebook; các tài li ệu có liên quan đ ến\n\n[anh-huong-mang-xa-hoi_p6_p2 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 6]\n“sự lựa chọn hợp lý” nhằm giải thích tính xã h ội trong việc lựa chọn\nsử dụng mạng xã hội Facebook của sinh viên; vận dụng “lý thuyết về",
+        "context_ids": [
+          "anh-huong-mang-xa-hoi_p21_p0",
+          "anh-huong-mang-xa-hoi_p20_p0",
+          "anh-huong-mang-xa-hoi_p6_p2"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_seconds": 1.820133924484253
+  },
+  {
+    "query_id": "q18",
+    "split": "test",
+    "question": "Những ảnh hưởng tiêu cực của việc dùng Facebook đến học tập được chỉ ra gồm những gì?",
+    "answerable": true,
+    "expected_answer": "Thức khuya, lãng phí thời gian và không gian học tập, giảm khả năng tương tác ngoài đời thực, hình thành giá trị lệch chuẩn",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Những ảnh hưởng tiêu cực của việc dùng Facebook đến học tập được chỉ ra gồm những gì?",
+        "filter": null,
+        "results": [
+          {
+            "id": "anh-huong-mang-xa-hoi_p4_p2",
+            "text": "Facebook đến học tập của sinh viên.",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 4,
+            "metadata": {
+              "section": "mo_dau",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 35,
+              "raw_length": 1634,
+              "chunk_index": 2,
+              "cleaned_length": 1603
+            },
+            "score": 0.03252247488101534,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "anh-huong-mang-xa-hoi_p23_p1",
+            "text": "hướng ảnh hưởng của mạng xã hội Facebook đối với sinh viên trong\nbối cảnh hiện nay.\nThứ nhất, nhìn chung, mạng xã hội Facebook là phương tiện\ncó cả những mặt tích c ực, tiêu c ực và có ảnh hưởng không nh ỏ tới\nđời sống thanh niên nói chung và ho ạt động của sinh viên nói riêng.\nMạng xã h ội Facebook giúp sinh viên k ết nối với nhiều bạn bè, c ập\nnhật thông tin, tham gia và chia s ẻ tài liệu trong các nhóm h ọc tập.\nBên cạnh đó vẫn còn tồn tại hạn chế và những vấn đề đặt ra bởi xét\ncho cùng mạng xã hội Facebook chỉ là thế giới ảo, việc sử dụng quá\nnhiều s ẽ ảnh hư ởng t ới công vi ệc, h ọc t ập, s ức kh ỏe hay gây ra\nnhững rắc rối trong cuộc sống.\nThứ hai, để phát huy tốt những ảnh hưởng tích cực, hạn chế\nảnh hưởng tiêu cực của mạng xã hội Facebook đến sinh viên, cần có",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 23,
+            "metadata": {
+              "section": "ket_luan_khuyen_nghi",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 779,
+              "raw_length": 1749,
+              "chunk_index": 1,
+              "cleaned_length": 1717
+            },
+            "score": 0.03131881575727918,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "anh-huong-mang-xa-hoi_p21_p1",
+            "text": "các địa bàn nghiên cứu (cụ thể gồm Trường ĐHKHXH&NV, Trường\nĐHKHTN, Trường ĐHBKHN), đưa ra m ột số so sánh đ ể làm rõ s ự\nkhác bi ệt gi ữa các đ ịa bàn này, đồng th ời ch ỉ ra m ột s ố đặc đi ểm\nđáng chú ý có liên quan đến sinh viên tại từng địa bàn.\nThứ ba, chúng tôi đã phân tích m ột s ố khía c ạnh n ổi b ật\ntrong thực trạng sử dụng mạng xã h ội Facebook c ủa sinh viên hi ện\nnay trên cơ sở phân tích kết quả khảo sát thực tế và tham khảo những\nkết quả đáng tin c ậy khác. Trên cơ s ở đó, luận án đi sâu vào phân\ntích những ảnh hưởng đáng chú ý của mạng xã hội Facebook đối với\nhọc t ập và quan h ệ gia đình, b ạn bè c ủa sinh viên. C ụ thể, về ảnh\nhưởng c ủa Facebook đ ến vi ệc h ọc t ập của sinh viên, nh ững ảnh\nhưởng đáng chú ý mà luận án chỉ ra có liên quan tới những khía cạnh",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 21,
+            "metadata": {
+              "section": "ket_luan_khuyen_nghi",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 787,
+              "raw_length": 1917,
+              "chunk_index": 1,
+              "cleaned_length": 1887
+            },
+            "score": 0.03055037313432836,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[anh-huong-mang-xa-hoi_p4_p2 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 4]\nFacebook đến học tập của sinh viên.\n\n[anh-huong-mang-xa-hoi_p23_p1 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 23]\nhướng ảnh hưởng của mạng xã hội Facebook đối với sinh viên trong\nbối cảnh hiện nay.\nThứ nhất, nhìn chung, mạng xã hội Facebook là phương tiện\ncó cả những mặt tích c ực, tiêu c ực và có ảnh hưởng không nh ỏ tới\nđời sống thanh niên nói chung và ho ạt động của sinh viên nói riêng.\nMạng xã h ội Facebook giúp sinh viên k ết nối với nhiều bạn bè, c ập\nnhật thông tin, tham gia và chia s ẻ tài liệu trong các nhóm h ọc tập.\nBên cạnh đó vẫn còn tồn tại hạn chế và những vấn đề đặt ra bởi xét\ncho cùng mạng xã hội Facebook chỉ là thế giới ảo, việc sử dụng quá\nnhiều s ẽ ảnh hư ởng t ới công vi ệc, h ọc t ập, s ức kh ỏe hay gây ra\nnhững rắc rối trong cuộc sống.\nThứ hai, để phát huy tốt những ảnh hưởng tích cực, hạn chế\nảnh hưởng tiêu cực của mạng xã hội Facebook đến sinh viên, cần có\n\n[anh-huong-mang-xa-hoi_p21_p1 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 21]\ncác địa bàn nghiên cứu (cụ thể gồm Trường ĐHKHXH&NV, Trường\nĐHKHTN, Trường ĐHBKHN), đưa ra m ột số so sánh đ ể làm rõ s ự\nkhác bi ệt gi ữa các đ ịa bàn này, đồng th ời ch ỉ ra m ột s ố đặc đi ểm\nđáng chú ý có liên quan đến sinh viên tại từng địa bàn.\nThứ ba, chúng tôi đã phân tích m ột s ố khía c ạnh n ổi b ật\ntrong thực trạng sử dụng mạng xã h ội Facebook c ủa sinh viên hi ện\nnay trên cơ sở phân tích kết quả khảo sát thực tế và tham khảo những\nkết quả đáng tin c ậy khác. Trên cơ s ở đó, luận án đi sâu vào phân\ntích những ảnh hưởng đáng chú ý của mạng xã hội Facebook đối với\nhọc t ập và quan h ệ gia đình, b ạn bè c ủa sinh viên. C ụ thể, về ảnh\nhưởng c ủa Facebook đ ến vi ệc h ọc t ập của sinh viên, nh ững ảnh\nhưởng đáng chú ý mà luận án chỉ ra có liên quan tới những khía cạnh",
+        "context_ids": [
+          "anh-huong-mang-xa-hoi_p4_p2",
+          "anh-huong-mang-xa-hoi_p23_p1",
+          "anh-huong-mang-xa-hoi_p21_p1"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "những ảnh hưởng tiêu cực của Facebook đến việc học tập của sinh viên cụ thể là gì",
+        "filter": null,
+        "results": [
+          {
+            "id": "anh-huong-mang-xa-hoi_p4_p2",
+            "text": "Facebook đến học tập của sinh viên.",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 4,
+            "metadata": {
+              "section": "mo_dau",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 35,
+              "raw_length": 1634,
+              "chunk_index": 2,
+              "cleaned_length": 1603
+            },
+            "score": 0.03278688524590164,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "anh-huong-mang-xa-hoi_p23_p1",
+            "text": "hướng ảnh hưởng của mạng xã hội Facebook đối với sinh viên trong\nbối cảnh hiện nay.\nThứ nhất, nhìn chung, mạng xã hội Facebook là phương tiện\ncó cả những mặt tích c ực, tiêu c ực và có ảnh hưởng không nh ỏ tới\nđời sống thanh niên nói chung và ho ạt động của sinh viên nói riêng.\nMạng xã h ội Facebook giúp sinh viên k ết nối với nhiều bạn bè, c ập\nnhật thông tin, tham gia và chia s ẻ tài liệu trong các nhóm h ọc tập.\nBên cạnh đó vẫn còn tồn tại hạn chế và những vấn đề đặt ra bởi xét\ncho cùng mạng xã hội Facebook chỉ là thế giới ảo, việc sử dụng quá\nnhiều s ẽ ảnh hư ởng t ới công vi ệc, h ọc t ập, s ức kh ỏe hay gây ra\nnhững rắc rối trong cuộc sống.\nThứ hai, để phát huy tốt những ảnh hưởng tích cực, hạn chế\nảnh hưởng tiêu cực của mạng xã hội Facebook đến sinh viên, cần có",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 23,
+            "metadata": {
+              "section": "ket_luan_khuyen_nghi",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 779,
+              "raw_length": 1749,
+              "chunk_index": 1,
+              "cleaned_length": 1717
+            },
+            "score": 0.031754032258064516,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "anh-huong-mang-xa-hoi_p4_p0",
+            "text": "2\n\nvà luận giải những ảnh hưởng tích c ực và tiêu c ực mà m ạng xã h ội\nFacebook mang đ ến đ ời s ống sinh viên hi ện nay. Hơn n ữa, vi ệc\nnghiên cứu ảnh hưởng của mạng xã h ội Facebook đ ối với sinh viên\ncó thể giúp đề xuất những kiến nghị có giá trị trong việc hỗ trợ giáo\ndục và đào tạo sinh viên nói riêng và thanh niên nói chung trong thời\nđại cách mạng công nghiệp 4.0 hiện nay.\nVì nh ững lý do trên, tác gi ả đã quy ết đ ịnh l ựa ch ọn “Ảnh\nhưởng của việc sử dụng mạng xã h ội Facebook đ ến học tập và đ ời\nsống của sinh viên hiện nay” làm đề tài luận án của mình. Đề tài này\nphù hợp với chuyên ngành đào tạo xã hội học bởi nó tập trung làm rõ\nảnh hưởng của mạng xã hội tới một nhóm đối tượng xã hội cụ thể là\nsinh viên, đ ặc bi ệt là nh ững phương di ện quan tr ọng nhất g ắn li ền",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 4,
+            "metadata": {
+              "section": "mo_dau",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 789,
+              "raw_length": 1634,
+              "chunk_index": 0,
+              "cleaned_length": 1603
+            },
+            "score": 0.030158730158730156,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[anh-huong-mang-xa-hoi_p4_p2 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 4]\nFacebook đến học tập của sinh viên.\n\n[anh-huong-mang-xa-hoi_p23_p1 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 23]\nhướng ảnh hưởng của mạng xã hội Facebook đối với sinh viên trong\nbối cảnh hiện nay.\nThứ nhất, nhìn chung, mạng xã hội Facebook là phương tiện\ncó cả những mặt tích c ực, tiêu c ực và có ảnh hưởng không nh ỏ tới\nđời sống thanh niên nói chung và ho ạt động của sinh viên nói riêng.\nMạng xã h ội Facebook giúp sinh viên k ết nối với nhiều bạn bè, c ập\nnhật thông tin, tham gia và chia s ẻ tài liệu trong các nhóm h ọc tập.\nBên cạnh đó vẫn còn tồn tại hạn chế và những vấn đề đặt ra bởi xét\ncho cùng mạng xã hội Facebook chỉ là thế giới ảo, việc sử dụng quá\nnhiều s ẽ ảnh hư ởng t ới công vi ệc, h ọc t ập, s ức kh ỏe hay gây ra\nnhững rắc rối trong cuộc sống.\nThứ hai, để phát huy tốt những ảnh hưởng tích cực, hạn chế\nảnh hưởng tiêu cực của mạng xã hội Facebook đến sinh viên, cần có\n\n[anh-huong-mang-xa-hoi_p21_p1 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 21]\ncác địa bàn nghiên cứu (cụ thể gồm Trường ĐHKHXH&NV, Trường\nĐHKHTN, Trường ĐHBKHN), đưa ra m ột số so sánh đ ể làm rõ s ự\nkhác bi ệt gi ữa các đ ịa bàn này, đồng th ời ch ỉ ra m ột s ố đặc đi ểm\nđáng chú ý có liên quan đến sinh viên tại từng địa bàn.\nThứ ba, chúng tôi đã phân tích m ột s ố khía c ạnh n ổi b ật\ntrong thực trạng sử dụng mạng xã h ội Facebook c ủa sinh viên hi ện\nnay trên cơ sở phân tích kết quả khảo sát thực tế và tham khảo những\nkết quả đáng tin c ậy khác. Trên cơ s ở đó, luận án đi sâu vào phân\ntích những ảnh hưởng đáng chú ý của mạng xã hội Facebook đối với\nhọc t ập và quan h ệ gia đình, b ạn bè c ủa sinh viên. C ụ thể, về ảnh\nhưởng c ủa Facebook đ ến vi ệc h ọc t ập của sinh viên, nh ững ảnh\nhưởng đáng chú ý mà luận án chỉ ra có liên quan tới những khía cạnh",
+        "context_ids": [
+          "anh-huong-mang-xa-hoi_p4_p2",
+          "anh-huong-mang-xa-hoi_p23_p1",
+          "anh-huong-mang-xa-hoi_p21_p1"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "những ảnh hưởng tiêu cực cụ thể của Facebook đến việc học tập của sinh viên",
+        "filter": null,
+        "results": [
+          {
+            "id": "anh-huong-mang-xa-hoi_p4_p2",
+            "text": "Facebook đến học tập của sinh viên.",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 4,
+            "metadata": {
+              "section": "mo_dau",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 35,
+              "raw_length": 1634,
+              "chunk_index": 2,
+              "cleaned_length": 1603
+            },
+            "score": 0.03278688524590164,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "anh-huong-mang-xa-hoi_p23_p1",
+            "text": "hướng ảnh hưởng của mạng xã hội Facebook đối với sinh viên trong\nbối cảnh hiện nay.\nThứ nhất, nhìn chung, mạng xã hội Facebook là phương tiện\ncó cả những mặt tích c ực, tiêu c ực và có ảnh hưởng không nh ỏ tới\nđời sống thanh niên nói chung và ho ạt động của sinh viên nói riêng.\nMạng xã h ội Facebook giúp sinh viên k ết nối với nhiều bạn bè, c ập\nnhật thông tin, tham gia và chia s ẻ tài liệu trong các nhóm h ọc tập.\nBên cạnh đó vẫn còn tồn tại hạn chế và những vấn đề đặt ra bởi xét\ncho cùng mạng xã hội Facebook chỉ là thế giới ảo, việc sử dụng quá\nnhiều s ẽ ảnh hư ởng t ới công vi ệc, h ọc t ập, s ức kh ỏe hay gây ra\nnhững rắc rối trong cuộc sống.\nThứ hai, để phát huy tốt những ảnh hưởng tích cực, hạn chế\nảnh hưởng tiêu cực của mạng xã hội Facebook đến sinh viên, cần có",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 23,
+            "metadata": {
+              "section": "ket_luan_khuyen_nghi",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 779,
+              "raw_length": 1749,
+              "chunk_index": 1,
+              "cleaned_length": 1717
+            },
+            "score": 0.031754032258064516,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "anh-huong-mang-xa-hoi_p22_p2",
+            "text": "với ảnh hưởng của Facebook đ ến sinh viên, lu ận án xác đ ịnh rõ hai\nnhóm sinh viên cụ thể là nhóm sinh viên không/chưa đi làm và nhóm\nsinh viên vừa học vừa làm. Với nhóm thứ nhất, Facebook có th ể hỗ\ntrợ nhiều cho công vi ệc học tập như: tìm ki ếm, chia s ẻ tài liệu học",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 22,
+            "metadata": {
+              "section": "ket_luan_khuyen_nghi",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 271,
+              "raw_length": 1867,
+              "chunk_index": 2,
+              "cleaned_length": 1837
+            },
+            "score": 0.030536130536130537,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[anh-huong-mang-xa-hoi_p4_p2 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 4]\nFacebook đến học tập của sinh viên.\n\n[anh-huong-mang-xa-hoi_p23_p1 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 23]\nhướng ảnh hưởng của mạng xã hội Facebook đối với sinh viên trong\nbối cảnh hiện nay.\nThứ nhất, nhìn chung, mạng xã hội Facebook là phương tiện\ncó cả những mặt tích c ực, tiêu c ực và có ảnh hưởng không nh ỏ tới\nđời sống thanh niên nói chung và ho ạt động của sinh viên nói riêng.\nMạng xã h ội Facebook giúp sinh viên k ết nối với nhiều bạn bè, c ập\nnhật thông tin, tham gia và chia s ẻ tài liệu trong các nhóm h ọc tập.\nBên cạnh đó vẫn còn tồn tại hạn chế và những vấn đề đặt ra bởi xét\ncho cùng mạng xã hội Facebook chỉ là thế giới ảo, việc sử dụng quá\nnhiều s ẽ ảnh hư ởng t ới công vi ệc, h ọc t ập, s ức kh ỏe hay gây ra\nnhững rắc rối trong cuộc sống.\nThứ hai, để phát huy tốt những ảnh hưởng tích cực, hạn chế\nảnh hưởng tiêu cực của mạng xã hội Facebook đến sinh viên, cần có\n\n[anh-huong-mang-xa-hoi_p21_p1 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 21]\ncác địa bàn nghiên cứu (cụ thể gồm Trường ĐHKHXH&NV, Trường\nĐHKHTN, Trường ĐHBKHN), đưa ra m ột số so sánh đ ể làm rõ s ự\nkhác bi ệt gi ữa các đ ịa bàn này, đồng th ời ch ỉ ra m ột s ố đặc đi ểm\nđáng chú ý có liên quan đến sinh viên tại từng địa bàn.\nThứ ba, chúng tôi đã phân tích m ột s ố khía c ạnh n ổi b ật\ntrong thực trạng sử dụng mạng xã h ội Facebook c ủa sinh viên hi ện\nnay trên cơ sở phân tích kết quả khảo sát thực tế và tham khảo những\nkết quả đáng tin c ậy khác. Trên cơ s ở đó, luận án đi sâu vào phân\ntích những ảnh hưởng đáng chú ý của mạng xã hội Facebook đối với\nhọc t ập và quan h ệ gia đình, b ạn bè c ủa sinh viên. C ụ thể, về ảnh\nhưởng c ủa Facebook đ ến vi ệc h ọc t ập của sinh viên, nh ững ảnh\nhưởng đáng chú ý mà luận án chỉ ra có liên quan tới những khía cạnh\n\n[anh-huong-mang-xa-hoi_p22_p2 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 22]\nvới ảnh hưởng của Facebook đ ến sinh viên, lu ận án xác đ ịnh rõ hai\nnhóm sinh viên cụ thể là nhóm sinh viên không/chưa đi làm và nhóm\nsinh viên vừa học vừa làm. Với nhóm thứ nhất, Facebook có th ể hỗ\ntrợ nhiều cho công vi ệc học tập như: tìm ki ếm, chia s ẻ tài liệu học",
+        "context_ids": [
+          "anh-huong-mang-xa-hoi_p4_p2",
+          "anh-huong-mang-xa-hoi_p23_p1",
+          "anh-huong-mang-xa-hoi_p21_p1",
+          "anh-huong-mang-xa-hoi_p22_p2"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_seconds": 5.403233051300049
+  },
+  {
+    "query_id": "q19",
+    "split": "test",
+    "question": "Cơ quan quản lý Nhà nước cần làm gì đối với hệ thống pháp luật về mạng xã hội?",
+    "answerable": true,
+    "expected_answer": "Nhanh chóng điều chỉnh, bổ sung, hoàn thiện hệ thống pháp luật, cơ chế, chính sách nhằm quản lý hiệu quả hơn",
+    "status": "answered",
+    "answer": "Các cơ quan quản lý Nhà nước cần nhanh chóng điều chỉnh, bổ sung, hoàn thiện hệ thống pháp luật, cơ chế, chính sách nhằm quản lý hiệu quả hơn đối với lĩnh vực công nghệ thông tin và truyền thông [anh-huong-mang-xa-hoi_p24_p0]. Cụ thể, cần đề ra cơ chế kiểm soát thông tin, loại bỏ các nội dung xuyên tạc, gây bất an trong dư luận trên mạng xã hội Facebook; tạo ra khung pháp lý ủng hộ, biểu dương người tốt, thông tin tốt và có tính răn đe, xử lý nghiêm các đối tượng đưa tin xấu, độc hại; đồng thời xây dựng thêm các văn bản hướng dẫn chi tiết thi hành Luật An ninh mạng [anh-huong-mang-xa-hoi_p24_p0].",
+    "citations": [
+      "anh-huong-mang-xa-hoi_p24_p0"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Cơ quan quản lý Nhà nước cần làm gì đối với hệ thống pháp luật về mạng xã hội?",
+        "filter": null,
+        "results": [
+          {
+            "id": "anh-huong-mang-xa-hoi_p24_p0",
+            "text": "22\n\ntruyền thông nói chung và m ạng xã h ội nói riêng, các cơ quan qu ản\nlý Nhà nư ớc c ần nhanh chóng đi ều ch ỉnh, b ổ sung, hoàn thi ện h ệ\nthống pháp lu ật, cơ ch ế, chính sách nh ằm quản lý hi ệu quả hơn đối\nvới lĩnh vực công nghệ thông tin và truyền thông. Trong đó, c ần đặc\nbiệt lưu ý t ới sự cần thiết phải đề ra cơ chế kiểm soát thông tin, lo ại\nbỏ các nội dung xuyên tạc, gây bất an trong dư luận thông qua mạng\nxã hội Facebook. Ở khía cạnh luật pháp c ần phải tạo ra khung pháp\nlý ủng hộ, biểu dương ngư ời tốt, thông tin t ốt và ngư ợc lại, có tính\nrăn đe, xử lý nghiêm các đối tượng có ý đồ xấu, đưa tin xấu, độc hại\ntrên các mạng xã hội; xây dựng thêm những văn bản hướng dẫn chi\ntiết thi hành Luật An ninh mạng nhằm đảm bảo an toàn, an ninh trên",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 24,
+            "metadata": {
+              "section": "ket_luan_khuyen_nghi",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 761,
+              "raw_length": 1888,
+              "chunk_index": 0,
+              "cleaned_length": 1858
+            },
+            "score": 0.03278688524590164,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "anh-huong-mang-xa-hoi_p23_p2",
+            "text": "những giải pháp đ ồng bộ từ các bên liên quan. Trư ớc hết, về hoàn\nthiện cơ ch ế, chính sách, n âng cao hi ệu qu ả quản lý Nhà nư ớc v ề",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 23,
+            "metadata": {
+              "section": "ket_luan_khuyen_nghi",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 136,
+              "raw_length": 1749,
+              "chunk_index": 2,
+              "cleaned_length": 1717
+            },
+            "score": 0.03225806451612903,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "anh-huong-mang-xa-hoi_p24_p1",
+            "text": "mạng và thông tin truyền thông. Ngoài các cơ quan công quyền, việc\ngiáo dục nói chung và giáo d ục sinh viên nói riêng luôn đòi h ỏi sự\nphối hợp, kết hợp chặt chẽ của nhiều bên khác, nh ất là s ự quan tâm\nđúng cách c ủa nhà trư ờng, gia đình và xã h ội. Cùng với đó, các t ổ\nchức của Đoàn Thanh niên Cộng sản Hồ Chí Minh và Hội Sinh viên\nViệt Nam ở cơ sở đóng vai trò hết sức quan trọng trong việc tổ chức\ncác ho ạt đ ộng tuyên truy ền cho đoàn viên thanh niên. Đ ể tuyên\ntruyền đến sinh viên ý thức sử dụng mạng xã hội, các cơ sở giáo dục\nđại học cần tổ chức các ho ạt động ngoại khóa, đưa n ội dung hư ớng\ndẫn tiếp cận thông tin và s ử dụng mạng xã h ội Facebook hợp lý tr ở\nthành một trong những nội dung học ngoại khóa quan trọng, tạo thói",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 24,
+            "metadata": {
+              "section": "ket_luan_khuyen_nghi",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 743,
+              "raw_length": 1888,
+              "chunk_index": 1,
+              "cleaned_length": 1858
+            },
+            "score": 0.029910714285714284,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[anh-huong-mang-xa-hoi_p24_p0 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 24]\n22\n\ntruyền thông nói chung và m ạng xã h ội nói riêng, các cơ quan qu ản\nlý Nhà nư ớc c ần nhanh chóng đi ều ch ỉnh, b ổ sung, hoàn thi ện h ệ\nthống pháp lu ật, cơ ch ế, chính sách nh ằm quản lý hi ệu quả hơn đối\nvới lĩnh vực công nghệ thông tin và truyền thông. Trong đó, c ần đặc\nbiệt lưu ý t ới sự cần thiết phải đề ra cơ chế kiểm soát thông tin, lo ại\nbỏ các nội dung xuyên tạc, gây bất an trong dư luận thông qua mạng\nxã hội Facebook. Ở khía cạnh luật pháp c ần phải tạo ra khung pháp\nlý ủng hộ, biểu dương ngư ời tốt, thông tin t ốt và ngư ợc lại, có tính\nrăn đe, xử lý nghiêm các đối tượng có ý đồ xấu, đưa tin xấu, độc hại\ntrên các mạng xã hội; xây dựng thêm những văn bản hướng dẫn chi\ntiết thi hành Luật An ninh mạng nhằm đảm bảo an toàn, an ninh trên\n\n[anh-huong-mang-xa-hoi_p23_p2 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 23]\nnhững giải pháp đ ồng bộ từ các bên liên quan. Trư ớc hết, về hoàn\nthiện cơ ch ế, chính sách, n âng cao hi ệu qu ả quản lý Nhà nư ớc v ề\n\n[anh-huong-mang-xa-hoi_p24_p1 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 24]\nmạng và thông tin truyền thông. Ngoài các cơ quan công quyền, việc\ngiáo dục nói chung và giáo d ục sinh viên nói riêng luôn đòi h ỏi sự\nphối hợp, kết hợp chặt chẽ của nhiều bên khác, nh ất là s ự quan tâm\nđúng cách c ủa nhà trư ờng, gia đình và xã h ội. Cùng với đó, các t ổ\nchức của Đoàn Thanh niên Cộng sản Hồ Chí Minh và Hội Sinh viên\nViệt Nam ở cơ sở đóng vai trò hết sức quan trọng trong việc tổ chức\ncác ho ạt đ ộng tuyên truy ền cho đoàn viên thanh niên. Đ ể tuyên\ntruyền đến sinh viên ý thức sử dụng mạng xã hội, các cơ sở giáo dục\nđại học cần tổ chức các ho ạt động ngoại khóa, đưa n ội dung hư ớng\ndẫn tiếp cận thông tin và s ử dụng mạng xã h ội Facebook hợp lý tr ở\nthành một trong những nội dung học ngoại khóa quan trọng, tạo thói",
+        "context_ids": [
+          "anh-huong-mang-xa-hoi_p24_p0",
+          "anh-huong-mang-xa-hoi_p23_p2",
+          "anh-huong-mang-xa-hoi_p24_p1"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_seconds": 2.0389177799224854
+  },
+  {
+    "query_id": "q20",
+    "split": "test",
+    "question": "Tác giả nhận thấy sự khác biệt đáng kể trong việc dùng Facebook giữa hai nhóm sinh viên nào?",
+    "answerable": true,
+    "expected_answer": "Nhóm không/chưa đi làm và nhóm vừa học vừa làm",
+    "status": "answered",
+    "answer": "Tác giả nhận thấy sự khác biệt đáng kể trong cách tiếp cận và sử dụng mạng xã hội Facebook giữa hai nhóm là nhóm sinh viên không/chưa đi làm và nhóm sinh viên vừa học vừa làm [anh-huong-mang-xa-hoi_p26_p0, anh-huong-mang-xa-hoi_p22_p2]. [anh-huong-mang-xa-hoi_p26_p0] [anh-huong-mang-xa-hoi_p22_p2]",
+    "citations": [
+      "anh-huong-mang-xa-hoi_p26_p0",
+      "anh-huong-mang-xa-hoi_p22_p2"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Tác giả nhận thấy sự khác biệt đáng kể trong việc dùng Facebook giữa hai nhóm sinh viên nào?",
+        "filter": null,
+        "results": [
+          {
+            "id": "anh-huong-mang-xa-hoi_p26_p0",
+            "text": "24\n\nbày ở phần trên, tác giả nhận thấy có sự khác biệt đáng kể trong cách\ntiếp cận và sử dụng mạng xã h ội Facebook giữa sinh viên thu ộc hai\nnhóm là nhóm không/chưa đi làm và nhóm v ừa học vừa làm. Dù có\nnhiều cách phân loại khác nhau, nhưng không thể phủ nhận rằng, đời\nsống sinh viên hiện đại đã trở nên vô cùng đa dạng, phức tạp, và điều\nđó khiến công tác ho ạch định chính sách có liên quan đ ến nhóm đối\ntượng này cần phải nhấn mạnh tính hướng đích của từng chính sách\ncụ thể. Việc nhìn nhận sinh viên như một nhóm thuần nhất nhiều khả\nnăng sẽ dẫn tới nh ững chính sách chung chung, không sát v ới đặc\nđiểm, nhu c ầu thực t ế của sinh viên. N ội dung c ủa nhi ều văn b ản,\nchính sách liên quan đến việc làm của sinh viên hiện nay chủ yếu tập",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 26,
+            "metadata": {
+              "section": "ket_luan_khuyen_nghi",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 747,
+              "raw_length": 1350,
+              "chunk_index": 0,
+              "cleaned_length": 1325
+            },
+            "score": 0.032266458495966696,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "anh-huong-mang-xa-hoi_p22_p2",
+            "text": "với ảnh hưởng của Facebook đ ến sinh viên, lu ận án xác đ ịnh rõ hai\nnhóm sinh viên cụ thể là nhóm sinh viên không/chưa đi làm và nhóm\nsinh viên vừa học vừa làm. Với nhóm thứ nhất, Facebook có th ể hỗ\ntrợ nhiều cho công vi ệc học tập như: tìm ki ếm, chia s ẻ tài liệu học",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 22,
+            "metadata": {
+              "section": "ket_luan_khuyen_nghi",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 271,
+              "raw_length": 1867,
+              "chunk_index": 2,
+              "cleaned_length": 1837
+            },
+            "score": 0.03225806451612903,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "anh-huong-mang-xa-hoi_p14_p2",
+            "text": "tuyến và m ột s ố mục đích khác . Tần suất s ử dụng Facebook có s ự\nkhác bi ệt đ ối trong sinh viên do ph ụ thuộc vào nhi ều y ếu t ố khác\nnhau như: qu ỹ thời gian, không gian, các công vi ệc mang tính ch ất\ngiải trí và học tập,…\nĐáng chú ý là, trong cu ộc khảo sát phục vụ trực tiếp cho đề\ntài luận án này, chúng tôi cũng thu đư ợc kết quả tương tự khi những\nthời điểm mà sinh viên thư ờng sử dụng Facebook vẫn là: trong th ời\ngian nghỉ ngơi ở nhà, bất kể lúc nào có th ể, giữa giờ nghỉ giải lao\ntrên lớp. Với kết qu ả mà chúng tôi kh ảo sát đư ợc, đa s ố sinh viên",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 14,
+            "metadata": {
+              "section": "co_so_ly_luan",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 566,
+              "raw_length": 1472,
+              "chunk_index": 2,
+              "cleaned_length": 1440
+            },
+            "score": 0.031009615384615385,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[anh-huong-mang-xa-hoi_p26_p0 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 26]\n24\n\nbày ở phần trên, tác giả nhận thấy có sự khác biệt đáng kể trong cách\ntiếp cận và sử dụng mạng xã h ội Facebook giữa sinh viên thu ộc hai\nnhóm là nhóm không/chưa đi làm và nhóm v ừa học vừa làm. Dù có\nnhiều cách phân loại khác nhau, nhưng không thể phủ nhận rằng, đời\nsống sinh viên hiện đại đã trở nên vô cùng đa dạng, phức tạp, và điều\nđó khiến công tác ho ạch định chính sách có liên quan đ ến nhóm đối\ntượng này cần phải nhấn mạnh tính hướng đích của từng chính sách\ncụ thể. Việc nhìn nhận sinh viên như một nhóm thuần nhất nhiều khả\nnăng sẽ dẫn tới nh ững chính sách chung chung, không sát v ới đặc\nđiểm, nhu c ầu thực t ế của sinh viên. N ội dung c ủa nhi ều văn b ản,\nchính sách liên quan đến việc làm của sinh viên hiện nay chủ yếu tập\n\n[anh-huong-mang-xa-hoi_p22_p2 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 22]\nvới ảnh hưởng của Facebook đ ến sinh viên, lu ận án xác đ ịnh rõ hai\nnhóm sinh viên cụ thể là nhóm sinh viên không/chưa đi làm và nhóm\nsinh viên vừa học vừa làm. Với nhóm thứ nhất, Facebook có th ể hỗ\ntrợ nhiều cho công vi ệc học tập như: tìm ki ếm, chia s ẻ tài liệu học\n\n[anh-huong-mang-xa-hoi_p14_p2 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 14]\ntuyến và m ột s ố mục đích khác . Tần suất s ử dụng Facebook có s ự\nkhác bi ệt đ ối trong sinh viên do ph ụ thuộc vào nhi ều y ếu t ố khác\nnhau như: qu ỹ thời gian, không gian, các công vi ệc mang tính ch ất\ngiải trí và học tập,…\nĐáng chú ý là, trong cu ộc khảo sát phục vụ trực tiếp cho đề\ntài luận án này, chúng tôi cũng thu đư ợc kết quả tương tự khi những\nthời điểm mà sinh viên thư ờng sử dụng Facebook vẫn là: trong th ời\ngian nghỉ ngơi ở nhà, bất kể lúc nào có th ể, giữa giờ nghỉ giải lao\ntrên lớp. Với kết qu ả mà chúng tôi kh ảo sát đư ợc, đa s ố sinh viên",
+        "context_ids": [
+          "anh-huong-mang-xa-hoi_p26_p0",
+          "anh-huong-mang-xa-hoi_p22_p2",
+          "anh-huong-mang-xa-hoi_p14_p2"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_seconds": 1.8506412506103516
+  },
+  {
+    "query_id": "q_unans_test_01",
+    "split": "test",
+    "question": "Tác giả luận án đề xuất ngân sách tài trợ cụ thể bao nhiêu tỷ đồng từ Bộ Giáo dục cho chính sách tư vấn tâm lý sinh viên nghiện mạng xã hội?",
+    "answerable": false,
+    "expected_answer": "Không đủ bằng chứng để trả lời.",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Tác giả luận án đề xuất ngân sách tài trợ cụ thể bao nhiêu tỷ đồng từ Bộ Giáo dục cho chính sách tư vấn tâm lý sinh viên nghiện mạng xã hội?",
+        "filter": null,
+        "results": [
+          {
+            "id": "anh-huong-mang-xa-hoi_p27_p0",
+            "text": "25\n\nDANH MỤC CÁC CÔNG TRÌNH KHOA H ỌC CỦA\nTÁC GIẢ LIÊN QUAN ĐẾN LUẬN ÁN\n\n1. Nguyễn Lan Nguyên (2020), “Tác đ ộng c ủa m ạng xã h ội\nfacebook đ ến sinh viên hi ện nay: Th ực tr ạng và đ ề xuất chính\nsách”, Tạp chí Khoa h ọc ĐHQGHN: Nghiên c ứu Chính sách và\nQuản lý Tập 36 (2), tr. 90-99.\n2. Nguyễn Lan Nguyên (2020), “Vai trò c ủa mạng xã h ội facebook\nđối với vấn đề việc làm c ủa sinh viên hi ện nay và đ ề xuất chính\nsách”, Tạp chí Khoa h ọc ĐHQGHN: Nghiên c ứu Chính sách và\nQuản lý Tập 36 (4), tr. 96-102.",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 27,
+            "metadata": {
+              "section": "danh_muc",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 510,
+              "raw_length": 523,
+              "chunk_index": 0,
+              "cleaned_length": 510
+            },
+            "score": 0.032266458495966696,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "anh-huong-mang-xa-hoi_p20_p0",
+            "text": "18\n\nKẾT LUẬN VÀ KHUYẾN NGHỊ\nKết luận\nTuy thời sinh viên là đ ối tượng nghiên c ứu quan tr ọng của\nnhiều công trình khoa học về xã hội học, nhưng việc nghiên cứu ảnh\nhưởng c ủa m ạng xã h ội nói chung và m ạng xã h ội Facebook nói\nriêng đến một số phương diện chủ yếu gắn với nhóm đ ối tượng này\nvẫn là một nhiệm vụ bức thiết và cần được tiếp tục luận giải chuyên\nsâu. Xuất phát từ lý do đó, trong lu ận án này, chúng tôi đã t ập trung\nthực hiện một số nhiệm vụ nghiên cứu cụ thể với những kết quả cơ\nbản thu được như sau:\nThứ nhất, luận án đã t ổng h ợp và phân tích các k ết qu ả\nnghiên cứu của công trình những công trình có liên quan đã công b ố\ntheo ba mảng vấn đề lớn là: các tài liệu có liên quan đến lý thuyết về\nmạng xã hội và mạng xã hội Facebook; các tài li ệu có liên quan đ ến",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 20,
+            "metadata": {
+              "section": "ket_luan_khuyen_nghi",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 788,
+              "raw_length": 1715,
+              "chunk_index": 0,
+              "cleaned_length": 1683
+            },
+            "score": 0.03055037313432836,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "anh-huong-mang-xa-hoi_p4_p0",
+            "text": "2\n\nvà luận giải những ảnh hưởng tích c ực và tiêu c ực mà m ạng xã h ội\nFacebook mang đ ến đ ời s ống sinh viên hi ện nay. Hơn n ữa, vi ệc\nnghiên cứu ảnh hưởng của mạng xã h ội Facebook đ ối với sinh viên\ncó thể giúp đề xuất những kiến nghị có giá trị trong việc hỗ trợ giáo\ndục và đào tạo sinh viên nói riêng và thanh niên nói chung trong thời\nđại cách mạng công nghiệp 4.0 hiện nay.\nVì nh ững lý do trên, tác gi ả đã quy ết đ ịnh l ựa ch ọn “Ảnh\nhưởng của việc sử dụng mạng xã h ội Facebook đ ến học tập và đ ời\nsống của sinh viên hiện nay” làm đề tài luận án của mình. Đề tài này\nphù hợp với chuyên ngành đào tạo xã hội học bởi nó tập trung làm rõ\nảnh hưởng của mạng xã hội tới một nhóm đối tượng xã hội cụ thể là\nsinh viên, đ ặc bi ệt là nh ững phương di ện quan tr ọng nhất g ắn li ền",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 4,
+            "metadata": {
+              "section": "mo_dau",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 789,
+              "raw_length": 1634,
+              "chunk_index": 0,
+              "cleaned_length": 1603
+            },
+            "score": 0.030330882352941176,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[anh-huong-mang-xa-hoi_p27_p0 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 27]\n25\n\nDANH MỤC CÁC CÔNG TRÌNH KHOA H ỌC CỦA\nTÁC GIẢ LIÊN QUAN ĐẾN LUẬN ÁN\n\n1. Nguyễn Lan Nguyên (2020), “Tác đ ộng c ủa m ạng xã h ội\nfacebook đ ến sinh viên hi ện nay: Th ực tr ạng và đ ề xuất chính\nsách”, Tạp chí Khoa h ọc ĐHQGHN: Nghiên c ứu Chính sách và\nQuản lý Tập 36 (2), tr. 90-99.\n2. Nguyễn Lan Nguyên (2020), “Vai trò c ủa mạng xã h ội facebook\nđối với vấn đề việc làm c ủa sinh viên hi ện nay và đ ề xuất chính\nsách”, Tạp chí Khoa h ọc ĐHQGHN: Nghiên c ứu Chính sách và\nQuản lý Tập 36 (4), tr. 96-102.\n\n[anh-huong-mang-xa-hoi_p20_p0 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 20]\n18\n\nKẾT LUẬN VÀ KHUYẾN NGHỊ\nKết luận\nTuy thời sinh viên là đ ối tượng nghiên c ứu quan tr ọng của\nnhiều công trình khoa học về xã hội học, nhưng việc nghiên cứu ảnh\nhưởng c ủa m ạng xã h ội nói chung và m ạng xã h ội Facebook nói\nriêng đến một số phương diện chủ yếu gắn với nhóm đ ối tượng này\nvẫn là một nhiệm vụ bức thiết và cần được tiếp tục luận giải chuyên\nsâu. Xuất phát từ lý do đó, trong lu ận án này, chúng tôi đã t ập trung\nthực hiện một số nhiệm vụ nghiên cứu cụ thể với những kết quả cơ\nbản thu được như sau:\nThứ nhất, luận án đã t ổng h ợp và phân tích các k ết qu ả\nnghiên cứu của công trình những công trình có liên quan đã công b ố\ntheo ba mảng vấn đề lớn là: các tài liệu có liên quan đến lý thuyết về\nmạng xã hội và mạng xã hội Facebook; các tài li ệu có liên quan đ ến\n\n[anh-huong-mang-xa-hoi_p4_p0 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 4]\n2\n\nvà luận giải những ảnh hưởng tích c ực và tiêu c ực mà m ạng xã h ội\nFacebook mang đ ến đ ời s ống sinh viên hi ện nay. Hơn n ữa, vi ệc\nnghiên cứu ảnh hưởng của mạng xã h ội Facebook đ ối với sinh viên\ncó thể giúp đề xuất những kiến nghị có giá trị trong việc hỗ trợ giáo\ndục và đào tạo sinh viên nói riêng và thanh niên nói chung trong thời\nđại cách mạng công nghiệp 4.0 hiện nay.\nVì nh ững lý do trên, tác gi ả đã quy ết đ ịnh l ựa ch ọn “Ảnh\nhưởng của việc sử dụng mạng xã h ội Facebook đ ến học tập và đ ời\nsống của sinh viên hiện nay” làm đề tài luận án của mình. Đề tài này\nphù hợp với chuyên ngành đào tạo xã hội học bởi nó tập trung làm rõ\nảnh hưởng của mạng xã hội tới một nhóm đối tượng xã hội cụ thể là\nsinh viên, đ ặc bi ệt là nh ững phương di ện quan tr ọng nhất g ắn li ền",
+        "context_ids": [
+          "anh-huong-mang-xa-hoi_p27_p0",
+          "anh-huong-mang-xa-hoi_p20_p0",
+          "anh-huong-mang-xa-hoi_p4_p0"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_seconds": 1.6404039859771729
+  },
+  {
+    "query_id": "q_unans_test_02",
+    "split": "test",
+    "question": "Mô hình học máy và thuật toán xếp hạng nào được máy chủ Facebook sử dụng để điều phối bảng tin News Feed theo phân tích của tác giả?",
+    "answerable": false,
+    "expected_answer": "Không đủ bằng chứng để trả lời.",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Mô hình học máy và thuật toán xếp hạng nào được máy chủ Facebook sử dụng để điều phối bảng tin News Feed theo phân tích của tác giả?",
+        "filter": null,
+        "results": [
+          {
+            "id": "anh-huong-mang-xa-hoi_p13_p0",
+            "text": "11\n\ncác mạng lư ới đư ợc t ổ chức theo các tiêu chí như qu ốc gia, thành\nphố, nơi làm việc, trường đại học,... để liên kết với người khác. Khả\nnăng truyền tải và lưu tr ữ dữ liệu tuyệt vời của Facebook cho phép\nviệc truyền tải và lưu trữ dữ liệu với độ bao phủ dung lượng đa dạng.\nFacebook cho phép ngư ời dùng lưu tr ữ thông tin và s ắp xếp có h ệ\nthống theo thời gian sử dụng. Nhờ đó, người dùng có thể tìm kiếm lại\ncác dữ liệu đã từng đăng tải hoặc tương tác trên Faecbook.\n2.3. Một số lý thuyết áp dụng trong đề tài\n2.3.1. Lý thuyết lựa chọn hợp lý (Rationl choice theory)\nLý thuyết này được áp dụng để giải thích vì sao sinh viên lựa\nchọn m ạng xã h ội Facebook đ ể sử dụng trong quá trình h ọc t ập,\ntương tác với bạn bè, gia đình, tham gia ho ạt động ngoại khóa và hỗ",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 13,
+            "metadata": {
+              "section": "co_so_ly_luan",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 774,
+              "raw_length": 1639,
+              "chunk_index": 0,
+              "cleaned_length": 1609
+            },
+            "score": 0.031024531024531024,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "anh-huong-mang-xa-hoi_p4_p1",
+            "text": "với sinh viên là h ọc tập và đời sống. Với tên đề tài xác định rõ mục\nđích, nhiệm vụ, phạm vi nghiên c ứu, tác gi ả sẽ sử dụng các k ết quả\nxử lý dữ liệu thu thập được từ điều tra, khảo sát thực tế cùng những\nkết quả nghiên cứu chuyên ngành và liên ngành có liên quan khác đ ể\ncố gắng giải quyết vấn đề nghiên cứu.\n2. Mục đích, nhiệm vụ nghiên cứu\n2.1. Mục đích\nLàm rõ ảnh hưởng của việc sử dụng mạng xã hội Facebook\nđến học tập, đời sống của sinh viên hi ện nay để từ đó đưa ra m ột số\nkhuyến nghị giúp nâng cao hiệu quả sử dụng Facebook của sinh viên\n2.2. Nhiệm vụ\n- Mô t ả thực tr ạng s ử dụng Facebook c ủa sinh viên (m ục\nđích sử dụng, thời gian sử dụng, thời điểm sử dụng, tần suất sử dụng,\nphương tiện truy cập,…)\n- Phân tích ảnh hư ởng c ủa vi ệc s ử dụng m ạng xã h ội",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 4,
+            "metadata": {
+              "section": "mo_dau",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 777,
+              "raw_length": 1634,
+              "chunk_index": 1,
+              "cleaned_length": 1603
+            },
+            "score": 0.030886196246139225,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "anh-huong-mang-xa-hoi_p8_p0",
+            "text": "6\n\nChương 1.\nTỔNG QUAN TÌNH HÌNH NGHIÊN CỨU\n1.1. Các nghiên c ứu liên quan đ ến mạng xã hội và m ạng\nxã hội Facebook\nNghiên cứu lớn nhất về mặt định lượng về mạng xã hội phải\nkể đến “Mạng xã hội với thanh niên Vi ệt Nam – Thực trạng và giải\npháp” do Trần Hữu Luyến là chủ nhiệm, dưới sự tài trợ của Quỹ Phát\ntriển Khoa học và Công nghệ Quốc gia (Nafosted). Ngoài ra, còn có\nmột s ố nghiên c ứu v ề mạng xã h ội ở khía c ạnh truy ền thông. Lê\nMinh Thanh (2010) qua phân tích tài li ệu trên blog và các trang\nmạng xã hội trực tuyến, trong đó tập trung vào hình thức và nội dung\ntrong khoảng thời gian t ừ 2005-2010 đã tìm ra nh ững mặt tích c ực,\ntiêu cực của truyền thông cá nhân trong th ời đại internet. Hoàng Thị\nHải Yến vào năm 2012 v ới đề tài: “Trao đổi thông tin trên m ạng xã",
+            "source_id": "anh-huong-mang-xa-hoi",
+            "source": "data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf",
+            "page": 8,
+            "metadata": {
+              "section": "tong_quan",
+              "is_blank": false,
+              "strategy": "by_paragraph",
+              "char_count": 782,
+              "raw_length": 1748,
+              "chunk_index": 0,
+              "cleaned_length": 1717
+            },
+            "score": 0.030117753623188408,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[anh-huong-mang-xa-hoi_p13_p0 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 13]\n11\n\ncác mạng lư ới đư ợc t ổ chức theo các tiêu chí như qu ốc gia, thành\nphố, nơi làm việc, trường đại học,... để liên kết với người khác. Khả\nnăng truyền tải và lưu tr ữ dữ liệu tuyệt vời của Facebook cho phép\nviệc truyền tải và lưu trữ dữ liệu với độ bao phủ dung lượng đa dạng.\nFacebook cho phép ngư ời dùng lưu tr ữ thông tin và s ắp xếp có h ệ\nthống theo thời gian sử dụng. Nhờ đó, người dùng có thể tìm kiếm lại\ncác dữ liệu đã từng đăng tải hoặc tương tác trên Faecbook.\n2.3. Một số lý thuyết áp dụng trong đề tài\n2.3.1. Lý thuyết lựa chọn hợp lý (Rationl choice theory)\nLý thuyết này được áp dụng để giải thích vì sao sinh viên lựa\nchọn m ạng xã h ội Facebook đ ể sử dụng trong quá trình h ọc t ập,\ntương tác với bạn bè, gia đình, tham gia ho ạt động ngoại khóa và hỗ\n\n[anh-huong-mang-xa-hoi_p4_p1 | data/anh-huong-mang-xa-hoi-doi-voi-sinh-vien.pdf | page 4]\nvới sinh viên là h ọc tập và đời sống. Với tên đề tài xác định rõ mục\nđích, nhiệm vụ, phạm vi nghiên c ứu, tác gi ả sẽ sử dụng các k ết quả\nxử lý dữ liệu thu thập được từ điều tra, khảo sát thực tế cùng những\nkết quả nghiên cứu chuyên ngành và liên ngành có liên quan khác đ ể\ncố gắng giải quyết vấn đề nghiên cứu.\n2. Mục đích, nhiệm vụ nghiên cứu\n2.1. Mục đích\nLàm rõ ảnh hưởng của việc sử dụng mạng xã hội Facebook\nđến học tập, đời sống của sinh viên hi ện nay để từ đó đưa ra m ột số\nkhuyến nghị giúp nâng cao hiệu quả sử dụng Facebook của sinh viên\n2.2. Nhiệm vụ\n- Mô t ả thực tr ạng s ử dụng Facebook c ủa sinh viên (m ục\nđích sử dụng, thời gian sử dụng, thời điểm sử dụng, tần suất sử dụng,\nphương tiện truy cập,…)\n- Phân tích ảnh hư ởng c ủa vi ệc s ử dụng m ạng xã h ội",
+        "context_ids": [
+          "anh-huong-mang-xa-hoi_p13_p0",
+          "anh-huong-mang-xa-hoi_p4_p1"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_seconds": 1.7114231586456299
+  }
+]

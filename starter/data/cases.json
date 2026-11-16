@@ -1,0 +1,174 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Ai là tác giả của cuốn sách \"World is flat\" (Thế giới phẳng) được trích dẫn trong phần mở đầu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Tên đề tài luận án của tác giả là gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Đề tài phân tích ảnh hưởng của Facebook đến những khía cạnh nào trong đời sống sinh viên?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Tác giả sử dụng lý thuyết nào để giải thích vai trò của xã hội và truyền thông đại chúng đối với sinh viên?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Nghiên cứu định lượng lớn nhất về mạng xã hội với thanh niên Việt Nam do ai làm chủ nhiệm?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Năm 2013, Ngô Lan Hương đã thực hiện đề tài nghiên cứu về nội dung gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Bài viết về lý thuyết mạng xã hội và sự biến đổi của giáo dục năm 2010 do tác giả nào công bố?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Hoạt động học tập của sinh viên được mô tả như thế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Mạng lưới trên Facebook được tổ chức theo những tiêu chí liên kết nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Tỷ lệ sinh viên được khảo sát coi Facebook là mạng xã hội sử dụng nhiều nhất là bao nhiêu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Bao nhiêu phần trăm sinh viên dành từ 1 đến 3 tiếng mỗi ngày để dùng Facebook?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Đại dịch nào được tác giả nêu ra như minh chứng rõ nét về việc trao đổi thông tin học tập qua mạng xã hội?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Nhà trường và giảng viên đã quan tâm tương tác trực tiếp với sinh viên qua Facebook như thế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Tương tác qua Facebook có thể tác động đến mối quan hệ gia đình ngoài đời thực ra sao?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Facebook tạo ra biến đổi như thế nào đối với các hoạt động ngoại khóa của sinh viên?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_unans_dev_01",
+    "split": "dev",
+    "question": "Theo kết quả điều tra của tác giả, tỷ lệ sinh viên sử dụng mạng xã hội TikTok trung bình bao nhiêu giờ mỗi ngày?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Luận án chỉ tập trung nghiên cứu mạng xã hội Facebook, hoàn toàn không khảo sát hay thu thập số liệu về thời lượng sử dụng TikTok của sinh viên."
+  },
+  {
+    "id": "q_unans_dev_02",
+    "split": "dev",
+    "question": "Mức học phí trung bình theo từng năm học của sinh viên trường Đại học Khoa học Xã hội và Nhân văn là bao nhiêu?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Tài liệu là tóm tắt luận án xã hội học về ảnh hưởng của Facebook đến học tập và đời sống sinh viên, không đề cập đến học phí cụ thể của nhà trường."
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Trong phần kết luận, đối tượng nghiên cứu trọng tâm của luận án là nhóm nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Tác giả đã vận dụng những lý thuyết nào được nhắc đến trong phần kết luận của luận án?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Những ảnh hưởng tiêu cực của việc dùng Facebook đến học tập được chỉ ra gồm những gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Cơ quan quản lý Nhà nước cần làm gì đối với hệ thống pháp luật về mạng xã hội?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Tác giả nhận thấy sự khác biệt đáng kể trong việc dùng Facebook giữa hai nhóm sinh viên nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_unans_test_01",
+    "split": "test",
+    "question": "Tác giả luận án đề xuất ngân sách tài trợ cụ thể bao nhiêu tỷ đồng từ Bộ Giáo dục cho chính sách tư vấn tâm lý sinh viên nghiện mạng xã hội?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Luận án chỉ đưa ra các khuyến nghị giải pháp mang tính định tính về giáo dục và gia đình, không đưa ra con số ngân sách tài trợ bằng tiền."
+  },
+  {
+    "id": "q_unans_test_02",
+    "split": "test",
+    "question": "Mô hình học máy và thuật toán xếp hạng nào được máy chủ Facebook sử dụng để điều phối bảng tin News Feed theo phân tích của tác giả?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Nghiên cứu được tiếp cận dưới góc độ xã hội học về hành vi người dùng, không đi sâu vào cấu trúc thuật toán hay kỹ thuật trí tuệ nhân tạo của Facebook."
+  }
+]
